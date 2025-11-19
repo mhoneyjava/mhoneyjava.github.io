@@ -1,0 +1,22 @@
+[
+  {
+    "id": "multiflora",
+    "slug": "madu-multiflora",
+    "name": "Madu Multiflora",
+    "short": "Rasa floral seimbang dari aneka bunga.",
+    "description": "Madu Multiflora MHoney dipanen dari berbagai jenis bunga dengan karakter rasa floral yang seimbang. Cocok untuk konsumsi harian, campuran minuman hangat, atau topping sarapan sehat.",
+    "notes": ["Floral", "Seimbang", "Aromatik ringan"],
+    "sizes": ["162 g", "290 g", "525 g", "864 g"],
+    "image": "/logo.svg"
+  },
+  {
+    "id": "kelengkeng",
+    "slug": "madu-kelengkeng",
+    "name": "Madu Kelengkeng",
+    "short": "Lebih manis dan lembut, khas bunga kelengkeng.",
+    "description": "Madu Kelengkeng MHoney memiliki rasa manis lembut dengan aroma khas bunga kelengkeng. Disukai untuk hadiah maupun konsumsi keluarga muda.",
+    "notes": ["Manis lembut", "Aroma khas", "Mudah disukai"],
+    "sizes": ["162 g", "290 g", "525 g", "864 g"],
+    "image": "/logo.svg"
+  }
+]

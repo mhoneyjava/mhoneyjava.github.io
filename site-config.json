@@ -1,0 +1,38 @@
+{
+  "brands": {
+    "mhoney": {
+      "name": "MHoney",
+      "logo": "/logo.svg",
+      "tagline": "Premium pure honey brand: sehat, murni, transparan.",
+      "description": "Madu murni berkualitas tinggi untuk gaya hidup sehat.",
+      "primaryColor": "amber",
+      "navigation": [
+        { "label": "Home", "path": "/" },
+        { "label": "Products", "path": "/products" },
+        { "label": "About", "path": "/about" },
+        { "label": "Blog", "path": "/blog" },
+        { "label": "Contact", "path": "/contact" }
+      ]
+    },
+    "sundakawa": {
+      "name": "Sundakawa Hampers",
+      "logo": "/logo.svg",
+      "tagline": "Hadiah bernilai dengan sentuhan alam & estetika rustik.",
+      "description": "Paket hampers premium untuk berbagai momen spesial.",
+      "primaryColor": "green",
+      "navigation": [
+        { "label": "Home", "path": "/sundakawa" },
+        { "label": "Catalogue", "path": "/sundakawa/catalogue" },
+        { "label": "Corporate", "path": "/sundakawa/corporate" },
+        { "label": "Custom Order", "path": "/sundakawa/custom" },
+        { "label": "FAQ", "path": "/sundakawa/faq" }
+      ]
+    }
+  },
+  "contact": {
+    "email": "hello@mhoney.example",
+    "instagram": "@mhoney.id",
+    "whatsapp": "+62 811-2167-800",
+    "hours": "Senin–Jumat, 09.00–17.00 WIB"
+  }
+}
