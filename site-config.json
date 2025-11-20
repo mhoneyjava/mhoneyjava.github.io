@@ -2,7 +2,7 @@
   "brands": {
     "mhoney": {
       "name": "MHoney",
-      "logo": "/logo.svg",
+      "logo": "/mhoney.png",
       "tagline": "Premium pure honey brand: sehat, murni, transparan.",
       "description": "Madu murni berkualitas tinggi untuk gaya hidup sehat.",
       "primaryColor": "amber",
@@ -16,7 +16,7 @@
     },
     "sundakawa": {
       "name": "Sundakawa Hampers",
-      "logo": "/logo.svg",
+      "logo": "/sundakawa.png",
       "tagline": "Hadiah bernilai dengan sentuhan alam & estetika rustik.",
       "description": "Paket hampers premium untuk berbagai momen spesial.",
       "primaryColor": "green",
