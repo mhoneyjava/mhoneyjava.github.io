@@ -3,6 +3,7 @@
     "mhoney": {
       "name": "MHoney",
       "logo": "/mhoney.png",
+      "favicon": "/mhoney-favicon.ico",
       "tagline": "Premium pure honey brand: sehat, murni, transparan.",
       "description": "Madu murni berkualitas tinggi untuk gaya hidup sehat.",
       "primaryColor": "amber",
@@ -17,6 +18,7 @@
     "sundakawa": {
       "name": "Sundakawa Hampers",
       "logo": "/sundakawa.png",
+      "favicon": "/sundakawa-favicon.ico",
       "tagline": "Hadiah bernilai dengan sentuhan alam & estetika rustik.",
       "description": "Paket hampers premium untuk berbagai momen spesial.",
       "primaryColor": "green",
@@ -30,8 +32,8 @@
     }
   },
   "contact": {
-    "email": "hello@mhoney.example",
-    "instagram": "@mhoney.id",
+    "email": "info@mhoney.id",
+    "instagram": ["@mhoneyjava", "@sundakawa"],
     "whatsapp": "+62 811-2167-800",
     "hours": "Senin–Jumat, 09.00–17.00 WIB"
   }
