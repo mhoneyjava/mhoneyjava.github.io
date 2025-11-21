@@ -3,6 +3,7 @@
     "id": "rustik-duo",
     "slug": "rustik-duo",
     "name": "Rustik Duo",
+    "price": 195000,
     "image": "/logo.svg",
     "includes": [
       "Madu Multiflora 162 g",
@@ -17,6 +18,7 @@
     "id": "heritage-set",
     "slug": "heritage-set",
     "name": "Heritage Set",
+    "price": 285000,
     "image": "/logo.svg",
     "includes": [
       "Madu Multiflora 290 g",
@@ -32,6 +34,7 @@
     "id": "signature-premium",
     "slug": "signature-premium",
     "name": "Signature Premium",
+    "price": 475000,
     "image": "/logo.svg",
     "includes": [
       "Madu Kelengkeng 525 g",
