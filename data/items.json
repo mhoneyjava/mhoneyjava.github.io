@@ -4,48 +4,61 @@
     "id": "multiflora",
     "slug": "madu-multiflora",
     "name": "Madu Multiflora",
-    "short": "Rasa floral seimbang dari aneka bunga.",
     "description": "Madu Multiflora MHoney dipanen dari berbagai jenis bunga dengan karakter rasa floral yang seimbang. Cocok untuk konsumsi harian, campuran minuman hangat, atau topping sarapan sehat.",
-    "notes": ["Floral", "Seimbang", "Aromatik ringan"],
-    "sizes": ["162 g", "290 g", "525 g", "864 g"],
-    "prices": [45000, 75000, 125000, 195000],
-    "image": "/logo.svg"
+    "image": "/logo.svg",
+    "tags": ["Floral", "Seimbang", "Aromatik ringan"],
+    "variants": [
+      { "name": "162 g", "price": 45000 },
+      { "name": "290 g", "price": 75000 },
+      { "name": "525 g", "price": 125000 },
+      { "name": "864 g", "price": 195000 }
+    ]
   },
   {
     "type": "honey",
     "id": "kelengkeng",
     "slug": "madu-kelengkeng",
     "name": "Madu Kelengkeng",
-    "short": "Lebih manis dan lembut, khas bunga kelengkeng.",
     "description": "Madu Kelengkeng MHoney memiliki rasa manis lembut dengan aroma khas bunga kelengkeng. Disukai untuk hadiah maupun konsumsi keluarga muda.",
-    "notes": ["Manis lembut", "Aroma khas", "Mudah disukai"],
-    "sizes": ["162 g", "290 g", "525 g", "864 g"],
-    "prices": [50000, 80000, 135000, 210000],
-    "image": "/logo.svg"
+    "image": "/logo.svg",
+    "tags": ["Manis lembut", "Aroma khas", "Mudah disukai"],
+    "variants": [
+      { "name": "162 g", "price": 50000 },
+      { "name": "290 g", "price": 80000 },
+      { "name": "525 g", "price": 135000 },
+      { "name": "864 g", "price": 210000 }
+    ]
   },
   {
     "type": "hamper",
     "id": "rustik-duo",
     "slug": "rustik-duo",
     "name": "Rustik Duo",
-    "price": 195000,
+    "description": "Hampers sehat dan premium untuk berbagai momen.",
     "image": "/logo.svg",
+    "tags": ["Hampers", "Premium", "Gift"],
+    "variants": [
+      { "name": "Standard", "price": 195000 }
+    ],
     "includes": [
       "Madu Multiflora 162 g",
       "Madu Kelengkeng 162 g",
       "Sendok madu kayu",
       "Kartu ucapan",
       "Kemasan besek premium"
-    ],
-    "tagline": "Hampers sehat dan premium untuk berbagai momen."
+    ]
   },
   {
     "type": "hamper",
     "id": "heritage-set",
     "slug": "heritage-set",
     "name": "Heritage Set",
-    "price": 285000,
+    "description": "Sentuhan alam dengan estetika rustik elegan.",
     "image": "/logo.svg",
+    "tags": ["Hampers", "Rustik", "Elegan"],
+    "variants": [
+      { "name": "Standard", "price": 285000 }
+    ],
     "includes": [
       "Madu Multiflora 290 g",
       "Wedang uwuh herbal",
@@ -53,16 +66,19 @@
       "Sendok kayu",
       "Kartu ucapan & pita",
       "Box premium kraft"
-    ],
-    "tagline": "Sentuhan alam dengan estetika rustik elegan."
+    ]
   },
   {
     "type": "hamper",
     "id": "signature-premium",
     "slug": "signature-premium",
     "name": "Signature Premium",
-    "price": 475000,
+    "description": "Hadiah bernilai tinggi untuk klien atau orang tersayang.",
     "image": "/logo.svg",
+    "tags": ["Hampers", "Premium", "Corporate"],
+    "variants": [
+      { "name": "Standard", "price": 475000 }
+    ],
     "includes": [
       "Madu Kelengkeng 525 g",
       "Madu Multiflora 162 g",
@@ -71,7 +87,6 @@
       "Sendok madu kayu",
       "Kartu ucapan personal",
       "Box hardcase premium"
-    ],
-    "tagline": "Hadiah bernilai tinggi untuk klien atau orang tersayang."
+    ]
   }
 ]
