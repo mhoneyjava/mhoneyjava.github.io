@@ -821,7 +821,7 @@
   {
     "id": "anyaman-tumbler-1",
     "type": "hamper",
-    "category": "Hampers Anyaman Spesial",
+    "category": "Hampers Anyaman Putih",
     "name": "Anyaman Tumbler 1",
     "slug": "anyaman-tumbler-1",
     "description": "Hampers",
@@ -849,7 +849,7 @@
   {
     "id": "anyaman-tumbler-2",
     "type": "hamper",
-    "category": "Hampers Anyaman Putih",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Tumbler 2",
     "slug": "anyaman-tumbler-2",
     "description": "Hampers",
@@ -1932,6 +1932,194 @@
       "Plumeria essential diffuser",
       "Snack",
       "Mix nut almond+mede"
+    ]
+  },
+  {
+    "id": "mhoney-tumbler",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "MHoney Tumbler",
+    "slug": "mhoney-tumbler",
+    "description": "Tumbler dengan design ilustrasi khusus MHONEY ini akan menjaga minumanmu agar tetap panas dan dingin. Ilustrasi ini mengangkat tema mencintai lingkungan dan hidup sehat dengan rajib berolahraga dan minum sehat. ",
+    "images": [
+      "/product_image/mhoney-tumbler.webp"
+    ],
+    "variants": [
+      {
+        "name": "Standard",
+        "price": 157000
+      }
+    ],
+    "tags": [
+      "Souvenir"
+    ]
+  },
+  {
+    "id": "sendok-madu",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "Sendok Madu",
+    "slug": "sendok-madu",
+    "images": [
+      "/product_image/sendok-madu.webp",
+      "/product_image/sendok-madu[1].webp",
+      "/product_image/sendok-madu[2].webp",
+      "/product_image/sendok-madu[3].webp",
+      "/product_image/sendok-madu[4].webp",
+      "/product_image/sendok-madu[5].webp"
+    ],
+    "variants": [
+      {
+        "name": "Sapodilla wood",
+        "price": 10500,
+        "image": "/product_image/sendok-madu[6].webp"
+      },
+      {
+        "name": "Rosewood",
+        "price": 10500,
+        "image": "/product_image/sendok-madu[7].webp"
+      },
+      {
+        "name": "Taekwood",
+        "price": 10500,
+        "image": "/product_image/sendok-madu[8].webp"
+      }
+    ],
+    "tags": [
+      "Souvenir"
+    ]
+  },
+  {
+    "id": "sabun-madu",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "Sabun Madu",
+    "slug": "sabun-madu",
+    "images": [
+      "/product_image/sabun-madu.webp",
+      "/product_image/sabun-madu[1].webp"
+    ],
+    "variants": [
+      {
+        "name": "Minyak Zaitun",
+        "price": 15000,
+        "image": "/product_image/sabun-madu[2].webp"
+      },
+      {
+        "name": "Sereh",
+        "price": 15000,
+        "image": "/product_image/sabun-madu[3].webp"
+      },
+      {
+        "name": "Propolis",
+        "price": 15000,
+        "image": "/product_image/sabun-madu[4].webp"
+      }
+    ],
+    "tags": [
+      "Souvenir"
+    ]
+  },
+  {
+    "id": "shopping-bag",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "Shopping Bag",
+    "slug": "shopping-bag",
+    "images": [
+      "/product_image/shopping-bag[1].webp",
+      "/product_image/shopping-bag[3].webp",
+      "/product_image/shopping-bag[5].webp",
+      "/product_image/shopping-bag[6].webp",
+      "/product_image/shopping-bag[7].webp",
+      "/product_image/shopping-bag[8].webp"
+    ],
+    "variants": [
+      {
+        "name": "Piknik",
+        "price": 25000,
+        "image": "/product_image/shopping-bag.webp"
+      },
+      {
+        "name": "Teko Madu",
+        "price": 25000,
+        "image": "/product_image/shopping-bag[2].webp"
+      },
+      {
+        "name": "Hutan dan Lingkungan",
+        "price": 25000,
+        "image": "/product_image/shopping-bag[4].webp"
+      }
+    ],
+    "tags": [
+      "Souvenir"
+    ]
+  },
+  {
+    "id": "kismis",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "Golden Raisin",
+    "slug": "kismis",
+    "images": [
+      "/product_image/kismis.webp",
+      "/product_image/kismis[1].webp",
+      "/product_image/kismis[2].webp"
+    ],
+    "variants": [
+      {
+        "name": "Standard",
+        "price": 25000
+      }
+    ],
+    "tags": [
+      "Souvenir"
+    ]
+  },
+  {
+    "id": "wedang-uwuh",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "Wedang Uwuh",
+    "slug": "wedang-uwuh",
+    "images": [
+      "/product_image/wedang-uwuh.webp",
+      "/product_image/wedang-uwuh[1].webp",
+      "/product_image/wedang-uwuh[2].webp"
+    ],
+    "variants": [
+      {
+        "name": "Standard",
+        "price": 2500
+      }
+    ],
+    "tags": [
+      "Souvenir"
+    ]
+  },
+  {
+    "id": "mug",
+    "type": "honey",
+    "category": "Souvenir and Stuff",
+    "name": "Mug Enamel",
+    "slug": "mug",
+    "images": [
+      "/product_image/mug[2].webp"
+    ],
+    "variants": [
+      {
+        "name": "Lebah Terbang",
+        "price": 25000,
+        "image": "/product_image/mug.webp"
+      },
+      {
+        "name": "Lebah Lucu Duduk",
+        "price": 25000,
+        "image": "/product_image/mug[1].webp"
+      }
+    ],
+    "tags": [
+      "Souvenir"
     ]
   }
 ]
