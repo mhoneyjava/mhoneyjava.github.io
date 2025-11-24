@@ -2,6 +2,7 @@
   {
     "id": "multiflora",
     "type": "honey",
+    "category": "Madu",
     "name": "Madu Multiflora",
     "slug": "madu-multiflora",
     "description": "Madu Multiflora MHoney dipanen dari berbagai jenis bunga dengan karakter rasa floral yang seimbang. Cocok untuk konsumsi harian, campuran minuman hangat, atau topping sarapan sehat.",
@@ -39,6 +40,7 @@
   {
     "id": "kelengkeng",
     "type": "honey",
+    "category": "Madu",
     "name": "Madu Kelengkeng",
     "slug": "madu-kelengkeng",
     "description": "Madu Kelengkeng MHoney memiliki rasa manis lembut dengan aroma khas bunga kelengkeng. Disukai untuk hadiah maupun konsumsi keluarga muda.",
@@ -76,6 +78,7 @@
   {
     "id": "royal-jelly",
     "type": "honey",
+    "category": "Madu",
     "name": "Madu Royal Jelly",
     "slug": "madu-royal-jelly",
     "description": "Perpaduan antara madu multiflora dan royal jelly sehingga semakin kaya akan nutrisi. Memiliki khasiat yang tinggi dalam menyembuhkan berbagai penyakit.",
@@ -102,6 +105,7 @@
   {
     "id": "rotan-honey",
     "type": "hamper",
+    "category": "Hampers Rotan",
     "name": "Rotan Honey",
     "slug": "rotan-honey",
     "description": "Hampers Rotan",
@@ -128,6 +132,7 @@
   {
     "id": "rotan-honey-nut",
     "type": "hamper",
+    "category": "Hampers Rotan",
     "name": "Rotan Honey Nut",
     "slug": "rotan-honey-nut",
     "description": "Hampers Rotan",
@@ -154,6 +159,7 @@
   {
     "id": "rotan-lemon-nut",
     "type": "hamper",
+    "category": "Hampers Rotan",
     "name": "Rotan Lemon Nut",
     "slug": "rotan-lemon-nut",
     "description": "Hampers Rotan",
@@ -181,6 +187,7 @@
   {
     "id": "enceng-1",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 1",
     "slug": "enceng-1",
     "description": "Hampers Enceng",
@@ -208,6 +215,7 @@
   {
     "id": "enceng-2",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 2",
     "slug": "enceng-2",
     "description": "Hampers Enceng",
@@ -237,6 +245,7 @@
   {
     "id": "enceng-3",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 3",
     "slug": "enceng-3",
     "description": "Hampers Enceng",
@@ -266,6 +275,7 @@
   {
     "id": "enceng-4",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 4",
     "slug": "enceng-4",
     "description": "Hampers Enceng",
@@ -297,6 +307,7 @@
   {
     "id": "enceng-5",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 5",
     "slug": "enceng-5",
     "description": "Hampers Enceng",
@@ -326,6 +337,7 @@
   {
     "id": "enceng-6",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 6",
     "slug": "enceng-6",
     "description": "Hampers Enceng",
@@ -357,6 +369,7 @@
   {
     "id": "enceng-7",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 7",
     "slug": "enceng-7",
     "description": "Hampers Enceng",
@@ -385,6 +398,7 @@
   {
     "id": "enceng-8",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 8",
     "slug": "enceng-8",
     "description": "Hampers Enceng",
@@ -415,6 +429,7 @@
   {
     "id": "enceng-9",
     "type": "hamper",
+    "category": "Hampers Enceng",
     "name": "Enceng 9",
     "slug": "enceng-9",
     "description": "Hampers Enceng",
@@ -444,6 +459,7 @@
   {
     "id": "anyaman-complete-1",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Complete 1",
     "slug": "anyaman-complete",
     "description": "Hampers",
@@ -475,6 +491,7 @@
   {
     "id": "anyaman-complete-2",
     "type": "hamper",
+    "category": "Hampers Anyaman Putih",
     "name": "Anyaman Complete 2",
     "slug": "anyaman-complete-2",
     "description": "Hampers",
@@ -506,6 +523,7 @@
   {
     "id": "anyaman-cookies-1",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 1",
     "slug": "anyaman-cookies-1",
     "description": "Hampers",
@@ -531,6 +549,7 @@
   {
     "id": "anyaman-cookies-2",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 2",
     "slug": "anyaman-cookies-2",
     "description": "Hampers",
@@ -556,6 +575,7 @@
   {
     "id": "anyaman-cookies-3",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 3",
     "slug": "anyaman-cookies-3",
     "description": "Hampers",
@@ -582,6 +602,7 @@
   {
     "id": "anyaman-cookies-4",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 4",
     "slug": "anyaman-cookies-4",
     "description": "Hampers",
@@ -610,6 +631,7 @@
   {
     "id": "anyaman-cookies-5",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 5",
     "slug": "anyaman-cookies-5",
     "description": "Hampers",
@@ -636,6 +658,7 @@
   {
     "id": "anyaman-cookies-6",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 6",
     "slug": "anyaman-cookies-6",
     "description": "Hampers",
@@ -662,6 +685,7 @@
   {
     "id": "anyaman-cookies-7",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Cookies 7",
     "slug": "anyaman-cookies-7",
     "description": "Hampers",
@@ -688,6 +712,7 @@
   {
     "id": "anyaman-spec-scented-1",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Spec Scented 1",
     "slug": "anyaman-spec-scented-1",
     "description": "Hampers",
@@ -714,6 +739,7 @@
   {
     "id": "anyaman-spesial-1",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Spesial 1",
     "slug": "anyaman-spesial-1",
     "description": "Hampers",
@@ -741,6 +767,7 @@
   {
     "id": "anyaman-spesial-2",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Spesial 2",
     "slug": "anyaman-spesial-2",
     "description": "Hampers",
@@ -767,6 +794,7 @@
   {
     "id": "anyaman-spesial-3",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Spesial 3",
     "slug": "anyaman-spesial-3",
     "description": "Hampers",
@@ -793,6 +821,7 @@
   {
     "id": "anyaman-tumbler-1",
     "type": "hamper",
+    "category": "Hampers Anyaman Spesial",
     "name": "Anyaman Tumbler 1",
     "slug": "anyaman-tumbler-1",
     "description": "Hampers",
@@ -820,6 +849,7 @@
   {
     "id": "anyaman-tumbler-2",
     "type": "hamper",
+    "category": "Hampers Anyaman Putih",
     "name": "Anyaman Tumbler 2",
     "slug": "anyaman-tumbler-2",
     "description": "Hampers",
@@ -847,6 +877,7 @@
   {
     "id": "besek-candle-raisin",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Candle Raisin",
     "slug": "besek-candle-raisin",
     "description": "Hampers",
@@ -872,6 +903,7 @@
   {
     "id": "besek-chilli-oil-rempah",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Chilli Oil Rempah",
     "slug": "besek-chilli-oil-rempah",
     "description": "Hampers",
@@ -897,6 +929,7 @@
   {
     "id": "besek-cookies",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Cookies",
     "slug": "besek-cookies",
     "description": "Hampers",
@@ -922,6 +955,7 @@
   {
     "id": "besek-honey-kismis",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Honey-Kismis",
     "slug": "besek-honey-kismis",
     "description": "Hampers",
@@ -947,6 +981,7 @@
   {
     "id": "besek-honey-mug",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Honey-Mug",
     "slug": "besek-honey-mug",
     "description": "Hampers",
@@ -972,6 +1007,7 @@
   {
     "id": "besek-mug-folding-bag",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Mug Folding Bag",
     "slug": "besek-mug-folding-bag",
     "description": "Hampers",
@@ -997,6 +1033,7 @@
   {
     "id": "besek-raisin-folding-bag",
     "type": "hamper",
+    "category": "Hampers Besek",
     "name": "Besek Raisin Folding Bag",
     "slug": "besek-raisin-folding-bag",
     "description": "Hampers",
@@ -1022,6 +1059,7 @@
   {
     "id": "box-honey-folding-bag",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Honey Folding Bag",
     "slug": "box-honey-folding-bag",
     "description": "Hampers",
@@ -1048,6 +1086,7 @@
   {
     "id": "box-honey-jar-2",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Honey Jar 2",
     "slug": "box-honey-jar-2",
     "description": "Hampers",
@@ -1074,6 +1113,7 @@
   {
     "id": "box-honey-mug-2",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Honey Mug 2",
     "slug": "box-honey-mug-2",
     "description": "Hampers",
@@ -1100,6 +1140,7 @@
   {
     "id": "box-honey-raisin-2",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Honey Raisin 2",
     "slug": "box-honey-raisin-2",
     "description": "Hampers",
@@ -1126,6 +1167,7 @@
   {
     "id": "box-lebaran-1",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Lebaran 1",
     "slug": "box-lebaran-1",
     "description": "Hampers",
@@ -1152,6 +1194,7 @@
   {
     "id": "box-lebaran-2",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Lebaran 2",
     "slug": "box-lebaran-2",
     "description": "Hampers",
@@ -1178,6 +1221,7 @@
   {
     "id": "box-lebaran-3",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Lebaran 3",
     "slug": "box-lebaran-3",
     "description": "Hampers",
@@ -1204,6 +1248,7 @@
   {
     "id": "box-vintage-book-a6",
     "type": "hamper",
+    "category": "Hampers Box",
     "name": "Box Vintage Book A6",
     "slug": "box-vintage-book-a6",
     "description": "Hampers",
@@ -1230,6 +1275,7 @@
   {
     "id": "pouch-1",
     "type": "hamper",
+    "category": "Hampers Pouch",
     "name": "Pouch 1",
     "slug": "pouch-1",
     "description": "Hampers",
@@ -1255,6 +1301,7 @@
   {
     "id": "pouch-2",
     "type": "hamper",
+    "category": "Hampers Pouch",
     "name": "Pouch 2",
     "slug": "pouch-2",
     "description": "Hampers",
@@ -1280,6 +1327,7 @@
   {
     "id": "pouch-3",
     "type": "hamper",
+    "category": "Hampers Pouch",
     "name": "Pouch 3",
     "slug": "pouch-3",
     "description": "Hampers",
@@ -1305,6 +1353,7 @@
   {
     "id": "pouch-4",
     "type": "hamper",
+    "category": "Hampers Pouch",
     "name": "Pouch 4",
     "slug": "pouch-4",
     "description": "Hampers",
@@ -1330,6 +1379,7 @@
   {
     "id": "pouch-5",
     "type": "hamper",
+    "category": "Hampers Pouch",
     "name": "Pouch 5",
     "slug": "pouch-5",
     "description": "Hampers",
@@ -1355,6 +1405,7 @@
   {
     "id": "pouch-6",
     "type": "hamper",
+    "category": "Hampers Pouch",
     "name": "Pouch 6",
     "slug": "pouch-6",
     "description": "Hampers",
@@ -1380,6 +1431,7 @@
   {
     "id": "rustic-2",
     "type": "hamper",
+    "category": "Hampers Anyaman Purun",
     "name": "Rustic 2",
     "slug": "rustic-2",
     "description": "Hampers",
@@ -1394,7 +1446,7 @@
     ],
     "tags": [
       "Hampers Estetik",
-      "Rustic"
+      "Anyaman Purun"
     ],
     "includes": [
       "Madu Kelengkeng 290 gr",
@@ -1406,6 +1458,7 @@
   {
     "id": "rustic-3",
     "type": "hamper",
+    "category": "Hampers Anyaman Purun",
     "name": "Rustic 3",
     "slug": "rustic-3",
     "description": "Hampers",
@@ -1420,7 +1473,7 @@
     ],
     "tags": [
       "Hampers Estetik",
-      "Rustic"
+      "Anyaman Purun"
     ],
     "includes": [
       "Madu Kelengkeng 290 gr",
@@ -1432,6 +1485,7 @@
   {
     "id": "rustic-4",
     "type": "hamper",
+    "category": "Hampers Anyaman Purun",
     "name": "Rustic 4",
     "slug": "rustic-4",
     "description": "Hampers",
@@ -1446,7 +1500,7 @@
     ],
     "tags": [
       "Hampers Estetik",
-      "Rustic"
+      "Anyaman Purun"
     ],
     "includes": [
       "Madu Kelengkeng 290 gr",
@@ -1458,6 +1512,7 @@
   {
     "id": "rustic-cangkir-custom",
     "type": "hamper",
+    "category": "Hampers Anyaman Purun",
     "name": "Rustic Cangkir Custom",
     "slug": "rustic-cangkir-custom",
     "description": "Hampers",
@@ -1472,7 +1527,7 @@
     ],
     "tags": [
       "Hampers Estetik",
-      "Rustic"
+      "Anyaman Purun"
     ],
     "includes": [
       "Madu Multifora 290 gr",
@@ -1484,6 +1539,7 @@
   {
     "id": "vintage-porcelain-1",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Vintage Porcelain 1",
     "slug": "vintage-porcelain-1",
     "description": "Hampers",
@@ -1511,6 +1567,7 @@
   {
     "id": "vintage-porcelain-2",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Vintage Porcelain 2",
     "slug": "vintage-porcelain-2",
     "description": "Hampers",
@@ -1540,6 +1597,7 @@
   {
     "id": "vintage-porcelain-3",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Vintage Porcelain 3",
     "slug": "vintage-porcelain-3",
     "description": "Hampers",
@@ -1569,6 +1627,7 @@
   {
     "id": "vintage-porcelain-4",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Vintage Porcelain 4",
     "slug": "vintage-porcelain-4",
     "description": "Hampers",
@@ -1598,6 +1657,7 @@
   {
     "id": "exclusive-wooden-set-1",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Exclusive Wooden Set 1",
     "slug": "exclusive-wooden-set-1",
     "description": "Hampers",
@@ -1629,6 +1689,7 @@
   {
     "id": "exclusive-wooden-set-2",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Exclusive Wooden Set 2",
     "slug": "exclusive-wooden-set-2",
     "description": "Hampers",
@@ -1659,6 +1720,7 @@
   {
     "id": "exclusive-wooden-set-3",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Exclusive Wooden Set 3",
     "slug": "exclusive-wooden-set-3",
     "description": "Hampers",
@@ -1688,6 +1750,7 @@
   {
     "id": "healthy-food-and-drink-1",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Healthy Food and Drink 1",
     "slug": "healthy-food-and-drink-1",
     "description": "Hampers",
@@ -1718,6 +1781,7 @@
   {
     "id": "healthy-food-and-drink-2",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Healthy Food and Drink 2",
     "slug": "healthy-food-and-drink-2",
     "description": "Hampers",
@@ -1749,6 +1813,7 @@
   {
     "id": "healthy-food-and-drink-3",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Healthy Food and Drink 3",
     "slug": "healthy-food-and-drink-3",
     "description": "Hampers",
@@ -1783,6 +1848,7 @@
   {
     "id": "cookies-and-honey-1",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Cookies and Honey 1",
     "slug": "cookies-and-honey-1",
     "description": "Hampers",
@@ -1812,6 +1878,7 @@
   {
     "id": "cookies-and-honey-2",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Cookies and Honey 2",
     "slug": "cookies-and-honey-2",
     "description": "Hampers",
@@ -1841,6 +1908,7 @@
   {
     "id": "exclusive-diffuser-hampers",
     "type": "hamper",
+    "category": "Hampers Exclusive",
     "name": "Exclusive Diffuser Hampers",
     "slug": "exclusive-diffuser-hampers",
     "description": "Hampers",
