@@ -2,16 +2,28 @@
   {
     "slug": "cara-membedakan-madu-asli",
     "title": "Cara Membedakan Madu Asli vs Campuran",
-    "excerpt": "Panduan sederhana mengenali madu asli melalui rasa, aroma, viskositas, dan uji sederhana di rumah."
+    "excerpt": "Panduan sederhana mengenali madu asli melalui rasa, aroma, viskositas, dan uji sederhana di rumah.",
+    "author": "MHoney Team",
+    "date": "2023-06-15T08:00:00.000Z",
+    "coverImage": "/mhoney.png",
+    "tags": ["keaslian", "tips", "madu"]
   },
   {
     "slug": "manfaat-madu-untuk-gaya-hidup-sehat",
     "title": "Manfaat Madu untuk Gaya Hidup Sehat",
-    "excerpt": "Dari energi harian hingga dukungan imunitas—ini cara aman konsumsi madu."
+    "excerpt": "Dari energi harian hingga dukungan imunitas—ini cara aman konsumsi madu.",
+    "author": "MHoney Team",
+    "date": "2023-07-05T08:00:00.000Z",
+    "coverImage": "/mhoney.png",
+    "tags": ["manfaat", "kesehatan", "madu"]
   },
   {
     "slug": "menyimpan-madu-dengan-tepat",
     "title": "Cara Menyimpan Madu dengan Tepat",
-    "excerpt": "Simpan di suhu ruang, tertutup rapat, jauh dari kelembapan—hindari kulkas."
+    "excerpt": "Simpan di suhu ruang, tertutup rapat, jauh dari kelembapan—hindari kulkas.",
+    "author": "MHoney Team",
+    "date": "2023-08-20T08:00:00.000Z",
+    "coverImage": "/mhoney.png",
+    "tags": ["penyimpanan", "tips"]
   }
 ]

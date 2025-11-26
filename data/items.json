@@ -2027,6 +2027,7 @@
     "name": "Shopping Bag",
     "slug": "shopping-bag",
     "images": [
+      "/product_image/shopping-bag.webp",
       "/product_image/shopping-bag[1].webp",
       "/product_image/shopping-bag[3].webp",
       "/product_image/shopping-bag[5].webp",
@@ -2104,6 +2105,7 @@
     "name": "Mug Enamel",
     "slug": "mug",
     "images": [
+      "/product_image/mug.webp",
       "/product_image/mug[2].webp"
     ],
     "variants": [
