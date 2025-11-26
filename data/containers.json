@@ -6,9 +6,8 @@
     "images": ["/container_image/rotan.png"],
     "tags": ["rotan", "tradisional"],
     "variants": [
-      { "name": "Rotan Kecil", "price": 50000, "image": "/container_image/rotan.png" },
-      { "name": "Rotan Sedang", "price": 75000, "image": "/container_image/rotan-medium.jpg" },
-      { "name": "Rotan Besar", "price": 120000, "image": "/container_image/rotan-large.jpg" }
+      { "name": "Rotan Reguler", "price": 50000, "image": "/container_image/rotan.png" },
+      { "name": "Rotan Eksklusif", "price": 100000, "image": "/container_image/rotan-medium.jpg" }
     ]
   },
   {
@@ -18,8 +17,10 @@
     "images": ["/container_image/enceng.png"],
     "tags": ["enceng", "fiber"],
     "variants": [
-      { "name": "Enceng Kecil", "price": 30000, "image": "/container_image/enceng-small.jpg" },
-      { "name": "Enceng Sedang", "price": 45000, "image": "/container_image/enceng-medium.jpg" }
+      { "name": "Enceng Mini", "price": 25000, "image": "/container_image/enceng-small.jpg" },
+      { "name": "Enceng Sedang", "price": 60000, "image": "/container_image/enceng-small.jpg" },
+      { "name": "Enceng Besar Handle Rotan", "price": 100000, "image": "/container_image/enceng-medium.jpg" },
+      { "name": "Enceng Exclusive Box", "price": 170000, "image": "/container_image/enceng-medium.jpg" }
     ]
   },
   {
@@ -29,8 +30,8 @@
     "images": ["/container_image/anyaman-putih.png"],
     "tags": ["anyaman", "putih"],
     "variants": [
-      { "name": "Putih Kecil", "price": 45000, "image": "/container_image/anyaman-putih-small.jpg" },
-      { "name": "Putih Sedang", "price": 65000, "image": "/container_image/anyaman-putih-medium.jpg" }
+      { "name": "Putih Kecil", "price": 35000, "image": "/container_image/anyaman-putih-small.jpg" },
+      { "name": "Putih Besar", "price": 45000, "image": "/container_image/anyaman-putih-medium.jpg" }
     ]
   },
   {
@@ -40,8 +41,8 @@
     "images": ["/container_image/anyaman-warna.png"],
     "tags": ["anyaman", "warna"],
     "variants": [
-      { "name": "Warna Kecil", "price": 50000, "image": "/container_image/anyaman-warna-small.jpg" },
-      { "name": "Warna Sedang", "price": 70000, "image": "/container_image/anyaman-warna-medium.jpg" }
+      { "name": "Warna Kecil", "price": 40000, "image": "/container_image/anyaman-warna-small.jpg" },
+      { "name": "Warna Besar", "price": 50000, "image": "/container_image/anyaman-warna-medium.jpg" }
     ]
   },
   {
@@ -51,8 +52,8 @@
     "images": ["/container_image/anyaman-purun.png"],
     "tags": ["anyaman", "purun"],
     "variants": [
-      { "name": "Purun Kecil", "price": 40000, "image": "/container_image/anyaman-purun-small.jpg" },
-      { "name": "Purun Sedang", "price": 60000, "image": "/container_image/anyaman-purun-medium.jpg" }
+      { "name": "Purun Sedang", "price": 35000, "image": "/container_image/anyaman-purun-small.jpg" },
+      { "name": "Purun Besar", "price": 40000, "image": "/container_image/anyaman-purun-medium.jpg" }
     ]
   },
   {
@@ -62,8 +63,9 @@
     "images": ["/container_image/box.png"],
     "tags": ["box", "karton"],
     "variants": [
-      { "name": "Box Sederhana", "price": 25000, "image": "/container_image/box-basic.jpg" },
-      { "name": "Box Premium", "price": 50000, "image": "/container_image/box-premium.jpg" }
+      { "name": "Box Polos", "price": 15000, "image": "/container_image/box-basic.jpg" },
+      { "name": "Box Ilustrasi", "price": 50000, "image": "/container_image/box-premium.jpg" },
+      { "name": "Box Lebaran", "price": 100000, "image": "/container_image/box-custom.jpg" }
     ]
   },
   {
@@ -73,7 +75,7 @@
     "images": ["/container_image/besek.png"],
     "tags": ["besek", "bambu"],
     "variants": [
-      { "name": "Besek Kecil", "price": 30000, "image": "/container_image/besek-small.jpg" },
+      { "name": "Besek Sedang", "price": 30000, "image": "/container_image/besek-small.jpg" },
       { "name": "Besek Besar", "price": 50000, "image": "/container_image/besek-large.jpg" }
     ]
   },
@@ -84,8 +86,8 @@
     "images": ["/container_image/pouch.png"],
     "tags": ["pouch", "kain"],
     "variants": [
-      { "name": "Pouch Kain", "price": 15000, "image": "/container_image/pouch-cloth.jpg" },
-      { "name": "Pouch Kain Premium", "price": 30000, "image": "/container_image/pouch-cloth-premium.jpg" }
+      { "name": "Pouch Mini", "price": 15000, "image": "/container_image/pouch-cloth.jpg" },
+      { "name": "Pouch Sedang", "price": 30000, "image": "/container_image/pouch-cloth-premium.jpg" }
     ]
   }
 ]
