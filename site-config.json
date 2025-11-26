@@ -27,6 +27,7 @@
         { "label": "Home", "path": "/sundakawa" },
         { "label": "Catalogue", "path": "/sundakawa/catalogue" },
         { "label": "Corporate", "path": "/sundakawa/corporate" },
+        { "label": "Souvenir", "path": "/sundakawa/souvenir" },
         { "label": "Custom Order", "path": "/sundakawa/custom" },
         { "label": "FAQ", "path": "/sundakawa/faq" }
       ]
