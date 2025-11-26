@@ -22,6 +22,7 @@
       "tagline": "Hadiah bernilai dengan sentuhan alam & estetika rustik.",
       "description": "Paket hampers premium untuk berbagai momen spesial.",
       "primaryColor": "green",
+      "customDiscount": 0.1,
       "navigation": [
         { "label": "Home", "path": "/sundakawa" },
         { "label": "Catalogue", "path": "/sundakawa/catalogue" },
