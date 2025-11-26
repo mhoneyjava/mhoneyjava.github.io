@@ -21,8 +21,6 @@ anyaman-scented-3.png
 anyaman-scented-4.png
 anyaman-spec-chili.png
 anyaman-spec-scented-1.png
-anyaman-special-4.png
-anyaman-special-6.png
 anyaman-spesial-1.png
 anyaman-spesial-2.png
 anyaman-spesial-3.png
