@@ -54,6 +54,11 @@ box-mug-folding-bag.png
 box-vintage-book-a6.png
 cashew-almond.jpeg
 cashew-almond[1].jpeg
+chili-oil.jpg
+chili-oil[1].jpg
+chili-oil[2].jpg
+chili-oil[3].jpg
+chili-oil[4].jpg
 cookies-and-honey-1.png
 cookies-and-honey-1[1].png
 cookies-and-honey-2.png
@@ -81,6 +86,8 @@ healthy-food-and-drink-2.png
 healthy-food-and-drink-2[1].png
 healthy-food-and-drink-3.png
 healthy-food-and-drink-3[1].png
+honey-dipper.png
+honey-dipper[1].png
 kelengkeng.png
 kelengkeng[1].png
 kelengkeng[2].png
