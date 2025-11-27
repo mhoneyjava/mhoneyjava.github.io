@@ -1,93 +1,10 @@
 [
-  {
-    "id": "rotan",
-    "name": "Rotan",
-    "description": "Wadah rotan alami, cocok untuk hampers tradisional",
-    "images": ["/container_image/rotan.png"],
-    "tags": ["rotan", "tradisional"],
-    "variants": [
-      { "name": "Rotan Reguler", "price": 50000, "image": "/container_image/rotan.png" },
-      { "name": "Rotan Eksklusif", "price": 100000}
-    ]
-  },
-  {
-    "id": "enceng",
-    "name": "Enceng",
-    "description": "Wadah enceng floating craft, ringan dan fleksibel",
-    "images": ["/container_image/enceng.png"],
-    "tags": ["enceng", "fiber"],
-    "variants": [
-      { "name": "Enceng Mini", "price": 25000},
-      { "name": "Enceng Sedang", "price": 60000},
-      { "name": "Enceng Besar Handle Rotan", "price": 100000},
-      { "name": "Enceng Exclusive Box", "price": 170000}
-    ]
-  },
-  {
-    "id": "anyaman-putih",
-    "name": "Anyaman Putih",
-    "description": "Anyaman serat putih yang elegan",
-    "images": ["/container_image/anyaman-putih.png"],
-    "tags": ["anyaman", "putih"],
-    "variants": [
-      { "name": "Putih Kecil", "price": 35000},
-      { "name": "Putih Besar", "price": 45000}
-    ]
-  },
-  {
-    "id": "anyaman-warna",
-    "name": "Anyaman Warna",
-    "description": "Anyaman dengan warna cerah dan motif",
-    "images": ["/container_image/anyaman-warna.png"],
-    "tags": ["anyaman", "warna"],
-    "variants": [
-      { "name": "Warna Kecil", "price": 40000},
-      { "name": "Warna Besar", "price": 50000}
-    ]
-  },
-  {
-    "id": "anyaman-purun",
-    "name": "Anyaman Purun",
-    "description": "Anyaman purun tradisional yang kuat dan tahan lama",
-    "images": ["/container_image/anyaman-purun.png"],
-    "tags": ["anyaman", "purun"],
-    "variants": [
-      { "name": "Purun Sedang", "price": 35000},
-      { "name": "Purun Besar", "price": 40000}
-    ]
-  },
-  {
-    "id": "box",
-    "name": "Box",
-    "description": "Box karton berkualitas, cocok untuk corporate gifting",
-    "images": ["/container_image/box.png"],
-    "tags": ["box", "karton"],
-    "variants": [
-      { "name": "Box Polos", "price": 15000},
-      { "name": "Box Ilustrasi", "price": 50000},
-      { "name": "Box Lebaran", "price": 100000}
-    ]
-  },
-  {
-    "id": "besek",
-    "name": "Besek",
-    "description": "Besek bambu tradisional yang natural",
-    "images": ["/container_image/besek.png"],
-    "tags": ["besek", "bambu"],
-    "variants": [
-      { "name": "Besek Sedang", "price": 30000},
-      { "name": "Besek Besar", "price": 50000}
-    ]
-  },
-  {
-    "id": "pouch",
-    "name": "Pouch",
-    "description": "Pouch kain untuk sentuhan modern dan fleksibel",
-    "images": ["/container_image/pouch.png"],
-    "tags": ["pouch", "kain"],
-    "variants": [
-      { "name": "Pouch Mini", "price": 15000},
-      { "name": "Pouch Sedang", "price": 30000}
-    ]
-  }
+{"id":"rotan","name":"Rotan","description":"Wadah rotan alami, cocok untuk hampers tradisional","images":["/container_image/rotan.png"],"tags":["rotan","tradisional"],"variants":[{"name":"Reguler","price":50000,"image":"/container_image/rotan.png"},{"name":"Eksklusif","price":100000}]},
+{"id":"enceng","name":"Enceng","description":"Wadah enceng floating craft, ringan dan fleksibel","images":["/container_image/enceng.png"],"tags":["enceng","fiber"],"variants":[{"name":"Mini","price":25000},{"name":"Sedang","price":60000},{"name":"Besar Handle","price":100000},{"name":"Exclusive Tutup","price":170000}]},
+{"id":"anyaman-putih","name":"Anyaman Putih","description":"Anyaman serat putih yang elegan","images":["/container_image/anyaman-putih.png"],"tags":["anyaman","putih"],"variants":[{"name":"Kecil","price":35000},{"name":"Besar","price":45000}]},
+{"id":"anyaman-warna","name":"Anyaman Warna","description":"Anyaman dengan warna cerah dan motif","images":["/container_image/anyaman-warna.png"],"tags":["anyaman","warna"],"variants":[{"name":"Kecil","price":40000},{"name":"Besar","price":50000}]},
+{"id":"anyaman-purun","name":"Anyaman Purun","description":"Anyaman purun tradisional yang kuat dan tahan lama","images":["/container_image/anyaman-purun.png"],"tags":["anyaman","purun"],"variants":[{"name":"Sedang","price":35000},{"name":"Besar","price":40000}]},
+{"id":"box","name":"Box","description":"Box karton berkualitas, cocok untuk corporate gifting","images":["/container_image/box.png"],"tags":["box","karton"],"variants":[{"name":"Polos","price":15000},{"name":"Ilustrasi","price":50000},{"name":"Lebaran","price":100000}]},
+{"id":"besek","name":"Besek","description":"Besek bambu tradisional yang natural","images":["/container_image/besek.png"],"tags":["besek","bambu"],"variants":[{"name":"Sedang","price":30000},{"name":"Besar","price":50000}]},
+{"id":"pouch","name":"Pouch","description":"Pouch kain untuk sentuhan modern dan fleksibel","images":["/container_image/pouch.png"],"tags":["pouch","kain"],"variants":[{"name":"Mini","price":15000},{"name":"Sedang","price":30000}]}
 ]
