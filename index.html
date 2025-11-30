@@ -133,7 +133,7 @@
       // to load the new url.
       (function(l) {
         if (l.search[1] === '/' ) {
-          var decoded = l.search.slice(1).split('&').map(function(s) { 
+          var decoded = l.search.slice(1).split('&').map(function(s) {
             return s.replace(/~and~/g, '&')
           }).join('?');
           window.history.replaceState(null, null,
@@ -141,6 +141,16 @@
           );
         }
       }(window.location))
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VPZMY4H3QW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-VPZMY4H3QW');
     </script>
     <script type="module" crossorigin src="/assets/index-emafHZTv.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-Dw5DccgK.js">
